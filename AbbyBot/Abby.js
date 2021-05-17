@@ -1,11 +1,13 @@
-///Hola Bienvenido al apartado de AbbyBot///
+///Hello Welcome to the AbbyBot section///
 
-('Algunos me preguntaran Quien es AbbyBot y como crees que existe pues esta es mi respuesta')
+('Some of you may ask me who is AbbyBot and how do you think it exists, well here is my answer')
 
-(1)/'Abby Es una bot de musica que funciona con Aoi.js y node.js con su paquete ytdl-core'
-(2)/'Por el momento AbbyBot cuenta con 11 comandos 9 de musica y 3 de ayuda'
-(3)/'Se que algunos preguntaran por que el nombre Su nombre Real es Abby etereo mas conocida como Abby'
-(4)/'La mision de Abby es que reproduzcas musica en tu servidor aunque estes aburrido'
-(5)/'Me he tomado el tiempo de pensar si Mas de 1 abby por que no 5 pero seguire pensando'
+(1)/'Abby is a music bot that works with Aoi.js and node.js with its ytdl-core package.'
+(2)/'At the moment AbbyBot has 11 commands, 9 music commands and 3 help commands.'
+(3)/'I know some may ask why the name Her real name is Ethereal Abby, better known as Abby.'
+(4)/'Abby's mission is for you to play music on your server even if you are bored.'
+(5)/'I've taken the time to think if more than 1 Abby why not 5 but I'll keep thinking.'
 
-'Abby Cuenta con una pequeña base de datos para que cuando reproduzca musica quede en la cola para que la repitas una y otra vez'
+'Abby has a small database so that when you play music it stays in the queue for you to replay it over and over again.'
+
+'File created in Visual Studio Code (VSC)'
