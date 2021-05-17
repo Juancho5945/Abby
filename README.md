@@ -8,4 +8,4 @@ Abby is a bot with various commands
 
 Invite Abby Powerfull Music BOT 
 
-![standard](https://user-images.githubusercontent.com/75599353/118546651-dc20be00-b71d-11eb-8d76-1eee3ab60cb0.gif)
+![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
