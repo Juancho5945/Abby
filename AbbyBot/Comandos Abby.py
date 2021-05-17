@@ -8,7 +8,7 @@
 'nb#stop ------------------------- nb#dc ------------------- Stop the music and the bot leaves the voice channel '
 'nb#loop ------------------------- NaN --------------------- Repeat a music '
 'nb#loopqueue -------------------- NaN --------------------- Repeat several songs'
-'nb#pause ------------------------ NaN --------------------- Pause the music
+'nb#pause ------------------------ NaN --------------------- Pause the music'
 'nb#resume ----------------------- NaN --------------------- Resume music'
 'nb#botinfo ---------------------- NaN --------------------- Show the bot info '
 'nb#help ------------------------- NaN --------------------- Help Command '
