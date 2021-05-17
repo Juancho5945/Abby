@@ -1,20 +1,22 @@
-//Documentacion de AbbyBot//
+//AbbyBot Documentation//
 
-'Abby es una bot concentrada en la musica y con una base de datos pequeña que la hace mas util'
+'Abby is a Bot focused on music and with a small database that makes it more useful.'
 
-INVITACIONES
+INVITATIONS
 
-TOP.GG: Pronto xd
+TOP.GG: Coming Soon
 DISCORDTHINGS: https://discordthings.com/bot/832297493253324800
 
-PAGINAS WEB
+WEBSITES
 
 Abbybot.xyz
 
 https://abbybotxyz.jdramosrangel4.repl.co/
 
-SERVIDORES
+SERVERS
 
-LOBESNOS NOCTURNOS: https://discord.gg/wChkgUarhk
+NIGHTWOLVES: https://discord.gg/wChkgUarhk
 
-SERVIDOR DE SOPORTE: https://discord.gg/5GJYpgtAJu
+SUPPORT SERVER: https://discord.gg/5GJYpgtAJu
+
+'File created in Visual Studio Code (VSC)'
