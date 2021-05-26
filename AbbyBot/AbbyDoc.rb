@@ -15,7 +15,7 @@ https://abbybotxyz.jdramosrangel4.repl.co/
 
 SERVERS
 
-NIGHTWOLVES: https://discord.gg/wChkgUarhk
+Azurediamond: https://discord.gg/jtG566SYDr
 
 SUPPORT SERVER: https://discord.gg/5GJYpgtAJu
 
