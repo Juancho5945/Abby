@@ -1,56 +1,56 @@
 ## 🤖 AbbyBot
-Abby es una bot concentrada en la musica 🎧
+Abby is a bot focused on music 🎧
 
-Cada comando se estara mejorando para un mejor rendimiento
+Every command will be improved for better performance.
 
-Si tiene problemas para usar a Abby entra a mi servidor de soporte [discord.gg/supportserver](https://discord.gg/5GJYpgtAJu)
+If you have problems using Abby go to my support server [discord.gg/supportserver](https://discord.gg/5GJYpgtAJu)
 
-La comunidad de abby [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
+The abby community [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
 
-### ⚡ Comandos
+### ⚡ Commands
 
-Abby cuenta con `12` comandos `9` de musica y `3` de ayuda
+Abby has `12` music `9` commands and `3` help `3` commands.
 
-- `Prefix de Abby: nb# (No Reemplazable)`
+- Abby prefix: nb# (Not Replaceable)`.
 
-### 😀 Emojis de Abby
+### 😀 Abby Emojis
 
-- `Todos los emojis que tiene la bot salen de mis servidores`
+- `All the emojis that the bot has come from my servers`.
 
-### ➕ Permisos de Abby
+### Abby's Permissions
 
-- `Ver canales:` Abby necesita ver los canales en donde puede conectarse y dejar sus comandos
+- View channels:` Abby needs to see the channels where she can connect and leave her commands.
 
-- `Enviar mensajes:` Es recomendado este tipo de permisos para sus comandos
+- `Send messages:` This type of permissions is recommended for her commands.
 
-- `Conectar:` Bruhh obvio Abby es una bot de musica y necesita un canal para conectarse
+- Connect:` Obvious Bruhh Abby is a music bot and needs a channel to connect to.
 
-- `Hablar:` Para que Escuchen la musica deben hacer que Abby pueda Hablar
+- Talk:` In order for you to listen to the music you need to make Abby able to Talk
 
-- `Administrador:` Podra servir si abby tiene los permisos completos
+- Administrator:` Will work if abby has full permissions.
 
-### ✅ NPM y Packages
+### NPM and Packages
 
-- Abby trabaja con `3` paquetes muy importantes para su funcionamiento en ellos son
+- Abby works with `3` packages that are very important for her to function in.
 
-- `aoi.js:` El paquite principal para que funcione sin problemas
+- aoi.js:` The main package for it to run smoothly.
 
-- `dbd.js-utils:` Para que funcione el comando `nb#np`
+- ddbd.js-utils:` To make the `nb#np` command work
 
-- `express:` Para que la consola arroje un link `HTML` para ser hosteado en Uptimerobot
+- express:` For the console to throw a `HTML` link to be hosted in Uptimerobot.
 
-### 😎 Info de Abby
+### 😎 Abby's info
 
-- Abby es una bot etereo musical que es capaz de hacer sonar hasta `9` musicas hasta mas largas estara a tu servicio cuando no haya mas bots de musica disponibles y confias en Abby
+- Abby is an ethereo music bot that is able to play up to `9` music even longer. She will be at your service when there are no more music bots available and you trust Abby.
 
-- Abby no esta sola sus amigos bots la acompañan para que ella este feliz y super alegre
+- Abby is not alone her bots friends accompany her to make her happy and super cheerful.
 
-- Todos sus comandos son potenciados y se monitorea cada 5 minutos para su estado
+- All her commands are boosted and she is monitored every 5 minutes for her status.
 
-### 🤩 Info del Owner
+### 🤩 Owner Info
 
-- Bueno pocos me conocen me llamo Juancho pocos me dicen Rex o Juancho mi tag de discord es `Rex 🇨🇴『Juancho』❤#9999`
+- Well few know me my name is Juancho few call me Rex or Juancho my discord tag is `Rex 🇨🇴『Juancho』❤#9999`.
 
-# 🦕 Gracias por usar a Abby 🦕
+# 🦕 Thanks for using Abby 🦕
 
 ![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
