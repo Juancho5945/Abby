@@ -9,9 +9,9 @@ The abby community [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
 
 ### ⚡ Commands
 
-Abby has `12` music `9` commands and `3` help `3` commands.
+Abby has `12` music `9` commands and `3` help commands.
 
-- Abby prefix: nb# (Not Replaceable)`.
+- `Abby prefix: nb# (Not Replaceable)`.
 
 ### 😀 Abby Emojis
 
@@ -19,25 +19,25 @@ Abby has `12` music `9` commands and `3` help `3` commands.
 
 ### Abby's Permissions
 
-- View channels:` Abby needs to see the channels where she can connect and leave her commands.
+- `View channels:` Abby needs to see the channels where she can connect and leave her commands.
 
 - `Send messages:` This type of permissions is recommended for her commands.
 
-- Connect:` Obvious Bruhh Abby is a music bot and needs a channel to connect to.
+- `Connect:` Obvious Bruhh Abby is a music bot and needs a channel to connect to.
 
-- Talk:` In order for you to listen to the music you need to make Abby able to Talk
+- `Talk:` In order for you to listen to the music you need to make Abby able to Talk
 
-- Administrator:` Will work if abby has full permissions.
+- `Administrator:` Will work if abby has full permissions.
 
 ### NPM and Packages
 
 - Abby works with `3` packages that are very important for her to function in.
 
-- aoi.js:` The main package for it to run smoothly.
+- `aoi.js:` The main package for it to run smoothly.
 
-- ddbd.js-utils:` To make the `nb#np` command work
+- `dbd.js-utils:` To make the `nb#np` command work
 
-- express:` For the console to throw a `HTML` link to be hosted in Uptimerobot.
+- `express:` For the console to throw a `HTML` link to be hosted in Uptimerobot.
 
 ### 😎 Abby's info
 
