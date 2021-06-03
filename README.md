@@ -53,4 +53,10 @@ Abby has `12` music `9` commands and `4` help commands.
 
 # 🦕 Thanks for using Abby 🦕
 
+### 🔝 Invitation on Top.gg
+
+<a href="https://top.gg/bot/832297493253324800">
+  <img src="https://top.gg/api/widget/832297493253324800.svg" alt="AbbyBot🌟" />
+  </a>
+
 ![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
