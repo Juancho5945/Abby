@@ -9,7 +9,7 @@ The abby community [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
 
 ### ⚡ Commands
 
-Abby has `12` music `9` commands and `3` help commands.
+Abby has `12` music `9` commands and `4` help commands.
 
 - `Abby prefix: nb# (Not Replaceable)`.
 
