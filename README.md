@@ -3,7 +3,7 @@ Abby is a bot focused on music 🎧
 
 Every command will be improved for better performance.
 
-If you have problems using Abby go to my support server [discord.gg/supportserver](https://discord.gg/5GJYpgtAJu)
+If you have problems using Abby go to my support server [discord.gg/abby](https://discord.gg/ndtDhjZBrS)
 
 The abby community [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
 
