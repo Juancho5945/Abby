@@ -1,62 +1,24 @@
-## 🤖 AbbyBot
-Abby is a bot focused on music 🎧
+<img src="https://cdn.discordapp.com/attachments/852303778513813514/882243168328904714/ui_2608_dragon_whitequeen_1.png"/></a>
+<div class="title">Queen Abby</div>
+<div class="subtitle">Abby the music bot that will help to encourage your server with its commands</div>
+<div class="subtitle">It currently has 22 commands, 12 for music and 10 for information</div>
+<img src="https://cdn.discordapp.com/attachments/839285763199860771/882313938233081886/unknown.png"/></a>
+<div class="title">To begin with</div>
+<div class="subtitle">type nb#help or nb#guide to see your commands and their Aliases</div>
+<div class="subtitle">Start the music use nb#play or its alias nb#p put a URL of the music or type it and it will join the channel</div>
+<img src="https://cdn.discordapp.com/attachments/839285763199860771/882314667572207616/unknown.png"/></a>
+<div class="subtitle">When Abby is finished with the music she will leave the channel</div>
+<div class="subtitle">Abby Supports Youtube, Spotify y Soundcloud</div>
+<div class="subtitle">We have 24/7 server support for your questions</div>
+<div class="title">Invite Abby what you expect to incentivize your server with her</div>
+<img src="https://cdn.discordapp.com/attachments/852303778513813514/882243168328904714/ui_2608_dragon_whitequeen_1.png"/></a>
 
-Every command will be improved for better performance.
 
-If you have problems using Abby go to my support server [discord.gg/abby](https://discord.gg/ndtDhjZBrS)
-
-The abby community [discord.gg/azurerex](https://discord.gg/jtG566SYDr)
-
-### ⚡ Commands
-
-Abby has `12` music `9` commands and `4` help commands.
-
-- `Abby prefix: nb# (Not Replaceable)`.
-
-### 😀 Abby Emojis
-
-- `All the emojis that the bot has come from my servers`.
-
-### Abby's Permissions
-
-- `View channels:` Abby needs to see the channels where she can connect and leave her commands.
-
-- `Send messages:` This type of permissions is recommended for her commands.
-
-- `Connect:` Obvious Bruhh Abby is a music bot and needs a channel to connect to.
-
-- `Talk:` In order for you to listen to the music you need to make Abby able to Talk
-
-- `Administrator:` Will work if abby has full permissions.
-
-### NPM and Packages
-
-- Abby works with `3` packages that are very important for her to function in.
-
-- `aoi.js:` The main package for it to run smoothly.
-
-- `dbd.js-utils:` To make the `nb#np` command work
-
-- `express:` For the console to throw a `HTML` link to be hosted in Uptimerobot.
-
-### 😎 Abby's info
-
-- Abby is an ethereo music bot that is able to play up to `9` music even longer. She will be at your service when there are no more music bots available and you trust Abby.
-
-- Abby is not alone her bots friends accompany her to make her happy and super cheerful.
-
-- All her commands are boosted and she is monitored every 5 minutes for her status.
-
-### 🤩 Owner Info
-
-- Well few know me my name is Juancho few call me Rex or Juancho my discord tag is `Rex 🇨🇴『Juancho』❤#9999`.
-
-# 🦕 Thanks for using Abby 🦕
-
-### 🔝 Invitation on Top.gg
+### 🔝 Invitations
 
 <a href="https://top.gg/bot/832297493253324800">
-  <img src="https://top.gg/api/widget/832297493253324800.svg" alt="AbbyBot🌟" />
-  </a>
+  <img src="https://top.gg/api/widget/832297493253324800.svg">
+</a>
+<a href="https://discordthings.com/bot/832297493253324800"> <img src="https://discordthings.com/bot/832297493253324800/widget"/></a>
 
 ![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
