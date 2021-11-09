@@ -17,15 +17,4 @@
 ### 🔝 Invitations
 
 [![DevServer](https://discordapp.com/api/guilds/852298820321673217/widget.png?style=shield)](https://discord.gg/89fPJP2aJ5)
-
-<a href="https://top.gg/bot/832297493253324800">
-  <img src="https://top.gg/api/widget/832297493253324800.svg">
-</a>
-<a href="https://discordthings.com/bot/832297493253324800"> <img src="https://discordthings.com/bot/832297493253324800/widget"/></a>
-
-<a href="https://discord.com/api/oauth2/authorize?client_id=832297493253324800&permissions=140126796896&scope=bot%20applications.commands"> 
-  <img src="https://cdn.discordapp.com/attachments/839293371335442492/892968521271738388/unknown.png">
-  </a>
-  
-  
-![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
+ ![standard](https://user-images.githubusercontent.com/75599353/118546744-feb2d700-b71d-11eb-8b13-edac1ed7faa3.gif)
