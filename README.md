@@ -16,6 +16,8 @@
 
 ### 🔝 Invitations
 
+[![DevServer](https://discordapp.com/api/guilds/852298820321673217/widget.png?style=shield)](https://discord.gg/89fPJP2aJ5)
+
 <a href="https://top.gg/bot/832297493253324800">
   <img src="https://top.gg/api/widget/832297493253324800.svg">
 </a>
